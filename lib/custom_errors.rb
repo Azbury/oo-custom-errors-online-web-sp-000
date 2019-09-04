@@ -10,6 +10,9 @@ class Person
     person.partner = self
   end
 
+  def jo
+
+  end
 end
 
 beyonce = Person.new("Beyonce")
@@ -17,7 +20,3 @@ beyonce.get_married("Jay-Z")
 puts beyonce.name
 
 #done
-
-
-
-
